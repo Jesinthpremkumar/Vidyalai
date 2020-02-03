@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+i have also uses react-responsive so download it before executing my application
+
+npm install react-responsive
+
 ## Available Scripts
 
 In the project directory, you can run:
